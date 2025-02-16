@@ -1,0 +1,70 @@
+#clicker{
+    background-color: rgb(250, 64, 64);
+    border-radius: 5%;
+    border: 0px;
+    height: 10vh;
+    width: 30vh;
+    font-size: x-large;
+}
+
+.block{
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: center;
+height: 30vh;
+width: 100vw;
+gap: 5vh;
+background-color: rgb(117, 200, 61);
+}
+
+#finish{
+    color: rgb(63, 83, 234);
+    font-size: x-large;
+}
+
+#block2{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 30vh;
+    width: 100vw;
+    gap: 5vh;
+    background-color: rgb(211, 44, 94);
+    }
+
+
+.p2{
+    color: aliceblue;
+    font-size: x-large;
+}
+
+#resettime {
+    background-color: rgb(57, 222, 156);
+    border-radius: 5%;
+    border: 0px;
+    height: 10vh;
+    width: 30vh;
+    font-size: x-large;
+}
+
+#block3{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 30vh;
+    width: 100vw;
+    gap: 5vh;
+    background-color: rgb(151, 30, 221);
+    }
+
+    #btnstart, #btnstop, #btnreset {
+        background-color: rgba(2, 1, 7, 0.855);
+        border-radius: 5%;
+        border: 0px;
+        height: 10vh;
+        width: 30vh;
+        font-size: x-large;
+    }
